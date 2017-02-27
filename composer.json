@@ -1,0 +1,25 @@
+{
+    "name": "dciss/poo-bundle",
+    "type": "symfony-bundle",
+    "description": "ddddfdfdfdfd",
+    "keywords": ["poo"],
+    "homepage": "https://github.com/nfouka",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nadir Fouka",
+            "email": "nadir.fouka@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+       
+    },
+    "autoload": {
+        "psr-0": { "Librairies\\LibrairiesTesBundle": "" }
+    },
+    "target-dir": "Librairies/LibrairiesTesBundle"
+}
+
