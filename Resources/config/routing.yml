@@ -1,0 +1,3 @@
+librairies_test_homepage:
+    path:     /
+    defaults: { _controller: LibrairiesTestBundle:Default:index }

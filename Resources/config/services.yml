@@ -1,0 +1,4 @@
+services:
+    librairies_test.example:
+        class: Librairies\LibrairiesTesBundle\Tools\Dsi
+        arguments: [[232,43,sdkdjskdjskdjskdjskdjs]]
